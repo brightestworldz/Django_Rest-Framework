@@ -1,5 +1,5 @@
-# Django_Models-projectZ
-This is my Django Models project in Zuri training
+# Django_Rest framework projectZ
+This is my Django Rest Framework project in Zuri training
 - 👋 Hi, I’m @brightestworldz
 - 👀 I’m interested in tech, meedia, sports and games
 - 🌱 I’m currently learning python programming language, Backend, data science and content creation
